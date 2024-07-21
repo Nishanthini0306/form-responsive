@@ -1,0 +1,64 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+
+
+form{
+
+
+    height:580px;
+    width:500px;
+    padding:20px;
+    margin:70px 0px 0px 400px;
+    background-color:  orange;
+   box-shadow:inset -5px -5px rgba(0, 0, 0, 0.5);
+   border-radius:25px;
+   
+   
+}
+.form{
+    margin-left:45px;
+}
+
+label{
+    display:block;
+    margin-left:30px;
+}
+h1{
+
+    margin-left: 150px;
+}
+
+input{
+    margin:20px;
+    border:2px solid black;
+    height:30px;
+    width:350px;
+}
+.pass input{
+    margin-right: 20px;
+}
+.button{
+    margin:50px;
+}
+.city input{
+    margin-left:20px;
+}
+textarea{
+    height:50px;
+    width:350px;
+    margin:20px;
+    border:2px solid black;
+}
+
+button{
+    margin-top:10px;
+    margin-left:150px;
+    background-color: darkgreen;
+    border-radius: 10px;
+    border:2px solid black;
+    height:30px;
+    width:80px;
+}
